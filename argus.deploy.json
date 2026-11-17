@@ -1,0 +1,11 @@
+{
+  "branch": "main",
+  "type": "static",
+  "isPrimaryDomain": false,
+  "pm2Config": null,
+  "application": "beyondpages",
+  "repository": "git@github.com:pranav1211/beyond-pages.git",
+  "deploymentPath": "/projects/beyondpages",
+  "domain": "beyondpages.beyondmebtw.com",
+  "nginxConfig": null
+}
